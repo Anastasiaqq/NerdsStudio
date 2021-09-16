@@ -429,6 +429,9 @@ a {
   color: #ffffff57;
 }
 .writeus {
+  position: fixed;
+  bottom: 90px;
+  left: 240px;
   width: 961px;
   height: 589px;
   padding-top: 73px;
@@ -437,6 +440,36 @@ a {
   padding-bottom: 83px;
   filter: drop-shadow(0px 20px 20px rgba(0, 1, 1, 0.75));
   background-color: #fff;
+}
+.writetop {
+  margin-bottom: 49px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.writeus-head {
+  font-size: 45px;
+  line-height: 100%;
+  color: #000000;
+  font-weight: 500;
+}
+.writeclose {
+  background-color: transparent;
+  border: none;
+}
+.writeus-form {
+  display: flex;
+  flex-direction: column;
+}
+.formdiv {
+  display: flex;
+}
+.writeus-label {
+  display: block;
+  font-size: 15px;
+  line-height: 17px;
+  color: #000000;
+  font-weight: 700;
 }
 .footer {
   padding-top: 70px;
