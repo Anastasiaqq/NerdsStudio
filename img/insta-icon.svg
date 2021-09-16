@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" width="21" height="21">
+	<title>insta-icon</title>
+	<defs>
+		<image  width="21" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAAXNSR0IB2cksfwAAADBQTFRF////////////////////////////////////////////////////////////////Tq+4QAAAABB0Uk5TABFm3f/MM0TuiHdVIqq7mX8yZI0AAACQSURBVHicY2BgFIQABgYGJhMXCAhjYCiBMl08BBimQFird7lsgLEFGLGzD/BA2dPFr5gGQ9heDAycQBEg2/LJA6A1Ji9B7ICQCUB2yEQM9hegGsaWhWD2Fk8GBn4PQTCb3+XVLhMvsF0BDFeABn6AsrlCXF4zQNlA7zBA2J0zwWA+kJ0C84szAwN3KBS8YQAARzxKkNrWoHAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

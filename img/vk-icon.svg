@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 15" width="26" height="15">
+	<title>vk-icon</title>
+	<defs>
+		<image  width="26" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAPBAMAAAAIf8LVAAAAAXNSR0IB2cksfwAAADBQTFRF////////////////////////////////////////////////////////////////Tq+4QAAAABB0Uk5TEVUAqszuiCJ3/7tE3ZkzZiSQsKkAAACgSURBVHicNc4xCsJQDAbgWCl0cPB1c2v/QUXBQwgO3V26OLh5lG4tWPFXUHBz1CO49QTiJs4ewuRRMyT5SAKRjuuju1iuMXIuloIHRGSJCXmUkIzRqAbkRYaakKmu5F2SnJUpJXcQbLg19WxHoIdP8vRiHajGbGMPlZ37OHuFreqPKf2vrkwotKu+NjRNG/1slpNzE6KMD+iw9EJi5fYOfgIAT05KnOnrAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
